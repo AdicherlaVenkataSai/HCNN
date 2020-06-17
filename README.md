@@ -1,2 +1,1 @@
-# Hierarichal-Convolutional-Neural-Network-for-fashion-Image-Classification
-Base models are implemented
+Implementation of https://www.sciencedirect.com/science/article/abs/pii/S0957417418305992
